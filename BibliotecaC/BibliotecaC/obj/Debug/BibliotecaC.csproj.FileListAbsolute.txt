@@ -1,0 +1,6 @@
+c:\users\jose_\documents\visual studio 2013\Projects\BibliotecaC\BibliotecaC\bin\Debug\BibliotecaC.exe.config
+c:\users\jose_\documents\visual studio 2013\Projects\BibliotecaC\BibliotecaC\bin\Debug\BibliotecaC.exe
+c:\users\jose_\documents\visual studio 2013\Projects\BibliotecaC\BibliotecaC\bin\Debug\BibliotecaC.pdb
+c:\users\jose_\documents\visual studio 2013\Projects\BibliotecaC\BibliotecaC\obj\Debug\BibliotecaC.csprojResolveAssemblyReference.cache
+c:\users\jose_\documents\visual studio 2013\Projects\BibliotecaC\BibliotecaC\obj\Debug\BibliotecaC.exe
+c:\users\jose_\documents\visual studio 2013\Projects\BibliotecaC\BibliotecaC\obj\Debug\BibliotecaC.pdb
